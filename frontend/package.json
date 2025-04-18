@@ -1,0 +1,21 @@
+{
+  "name": "teacher-recommendation-system",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@wecom/jssdk": "^2.3.1",
+    "axios": "^1.8.4",
+    "pinia": "^3.0.2",
+    "vue": "^3.4.0",
+    "vue-router": "^4.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^5.2.0"
+  }
+}
